@@ -1,0 +1,36 @@
+.addStuff {
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    transition: background 250ms ease-in-out, 
+                transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+
+
+    margin-left: auto;
+    margin-right: 2rem;
+    height: 32px;
+    width: 32px;
+    display: block;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/1828/1828817.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: transparent;
+}
+.checkBoxClose {
+    transform: rotate(45deg);
+    opacity: 0.5;
+}
+.textBox {
+    position: fixed;
+    min-height: 100px;
+     width: 400px;
+     top: 0;
+     right: 0;
+     background-color: white;
+     z-index: 9999;
+     color: black;
+}

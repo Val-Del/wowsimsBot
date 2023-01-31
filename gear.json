@@ -1,0 +1,138 @@
+{
+    "talents": "5012203115331303213305311231-000000000000000000000000000000-205003012000000000000000000",
+    "glyphs": {
+      "major": [
+        "Glyph of Insect Swarm",
+        "Glyph of Starfall",
+        "Glyph of Starfire"
+      ],
+      "minor": [
+        "Glyph of Unburdened Rebirth"
+      ]
+    },
+    "class": "druid",
+    "race": "Tauren",
+    "name": "Ðel",
+    "gear": {
+      "items": [
+        {
+          "enchant": 3820,
+          "gems": [
+            41285,
+            42144
+          ],
+          "//comment":  "head",
+          "id": 46191     
+        },
+        {
+            "//comment":  "neck",
+          "id": 44661,
+          "gems": [
+            40026
+          ]
+        },
+        {
+          "enchant": 3810,
+          "gems": [
+            42144
+          ],
+          "//comment":  "shoulders",
+          "id": 46196
+        },
+        {
+          "enchant": 3859,
+          "gems": [
+            40026
+          ],
+          "//comment":  "cloak",
+          "id": 44005
+        },
+        {
+          "enchant": 3832,
+          "gems": [
+            39998,
+            39998
+          ],
+          "//comment":  "chest",
+          "id": 46194
+        },
+        {
+          "enchant": 2332,
+          "gems": [
+            39998
+          ],
+          "//comment":  "wrist",
+          "id": 44008
+        },
+        {
+          "enchant": 3604,
+          "gems": [
+            39998
+          ],
+          "id": 45351
+        },
+        {
+          "id": 45306,
+          "gems": [
+            42144
+          ]
+        },
+        {
+          "enchant": 3719,
+          "gems": [],
+          "id": 40560
+        },
+        {
+          "enchant": 3606,
+          "gems": [],
+          "id": 45441
+        },
+        {
+          "id": 40719,
+          "gems": []
+        },
+        {
+          "id": 40080,
+          "gems": []
+        },
+        {
+          "id": 40255,
+          "gems": []
+        },
+        {
+          "id": 45490,
+          "gems": []
+        },
+        {
+          "enchant": 3834,
+          "gems": [
+            39998
+          ],
+          "//comment":  "one hand",
+          "id": 46035
+        },
+        {
+          "id": 40192,
+          "gems": []
+        },
+        {
+          "id": 40321,
+          "gems": []
+        }
+      ]
+    },
+    "professions": [
+      {
+        "name": "Engineering",
+        "level": 441
+      },
+      {
+        "name": "Jewelcrafting",
+        "level": 450
+      }
+    ],
+    "level": 80,
+    "spec": "feral",
+    "realm": "Thekal"
+  }
+  
